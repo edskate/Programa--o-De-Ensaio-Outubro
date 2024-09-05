@@ -46,10 +46,14 @@ th{
     text-shadow: 10px 10px 10px #000;
 }
 table{
-    margin: 70px;
+   margin: 30px;
+
+    /* Optional: Set a width if needed */
+    
 }
 img{
     box-shadow: 10px 10px 10px #000;
+    display: block;
 }
 td{
     text-shadow: 10px 10px 10px #000;
@@ -60,4 +64,7 @@ th{
 h1{
     text-align: right;
     text-shadow: 10px 10px 10px #000;
+}
+div{
+    display: block;
 }
