@@ -46,7 +46,12 @@ th{
     text-shadow: 10px 10px 10px #000;
 }
 table{
-   margin: 30px;
+
+   text-align: center;
+   width: 100%;
+  margin-bottom : .5em;
+  table-layout: fixed;
+  text-align: center;
 
     /* Optional: Set a width if needed */
     
@@ -59,7 +64,7 @@ td{
     text-shadow: 10px 10px 10px #000;
 }
 th{
-    text-shadow: 10px 10px 10px #00000;
+    text-shadow: 10px 10px 10px #0000;
 }
 h1{
     text-align: right;
