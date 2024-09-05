@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(255, 255, 255);
+    background-image: url(img/Dança\ 5.png);
+    background-repeat: no-repeat;
+    background-size: 2100px 1350px;
+ 
+}
+
+i{
+    color: red;
+    text-shadow: 10px 10px 10px #000;
+    color: white;
+}
+b{
+    color:red;
+    text-shadow: 10px 10px 10px #060202;
+    
+}
+main{
+    background-color: rgb(17, 171, 171);
+    margin: 30px;
+    border-radius: 10px 10px 10px ;
+    border: 2px solid;
+}
+li{
+    margin: 10px;
+    color: white;
+}
+h3{
+    color: white;
+    margin: 30px;
+}
+h2{
+    color: rgb(214, 0, 0);
+    margin: 30px;
+}
+h1{
+    color: rgb(0, 0, 0);
+    margin: 30px;
+}
+e{
+    color: gray;
+}
+th{
+    color: white;
+    text-shadow: 10px 10px 10px #000;
+}
+table{
+    margin: 70px;
+}
+img{
+    box-shadow: 10px 10px 10px #000;
+}
+td{
+    text-shadow: 10px 10px 10px #000;
+}
+th{
+    text-shadow: 10px 10px 10px #00000;
+}
+h1{
+    text-align: right;
+    text-shadow: 10px 10px 10px #000;
+}
