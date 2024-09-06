@@ -36,7 +36,7 @@ h2{
     font-size: 40px;
 }
 h1{
-    color:black;
+    color:rgb(0, 0, 0);
     margin: 30px;
 }
 e{
@@ -67,9 +67,20 @@ th{
     text-shadow: 10px 10px 10px #0000;
 }
 h1{
-    text-align: right;
+    text-align: justify;
     text-shadow: 10px 10px 10px #000;
 }
 div{
     display: block;
+}
+h4{
+    color: red;
+    text-shadow: 10px 10px 10px #000;
+margin: 50px;
+font-size: 30px;
+}
+p{
+    color: greenyellow;
+    text-shadow: 10px 10px 10px #000;
+    font-size: 25px;
 }
